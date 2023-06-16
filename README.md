@@ -12,7 +12,7 @@ If you find this code useful, please reference in your paper:
 @article{kauvar2023curious,
   title={Curious Replay for Model-based Adaptation},
   author={Kauvar, Isaac and Doyle, Chris and Zhou, Linqi and Haber, Nick},
-  journal={},
+  journal={International Conference on Machine Learning},
   year={2023}
 }
 ```
