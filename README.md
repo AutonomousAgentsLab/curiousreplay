@@ -25,14 +25,9 @@ Here we provide links to implementations with different model-based agents.
 ## DreamerV2
 [github.com/AutonomousAgentsLab/curiousreplay-dv2][dv2]
 
-## DreamerPro
-[github.com/AutonomousAgentsLab/curiousreplay-dpro][dpro]
-
-
 
 [dv3]: https://github.com/AutonomousAgentsLab/curiousreplay-dv3
 [dv2]: https://github.com/AutonomousAgentsLab/curiousreplay-dv2
-[dpro]: https://github.com/AutonomousAgentsLab/curiousreplay-dpro
 
 [paper]: 
 [website]: 
