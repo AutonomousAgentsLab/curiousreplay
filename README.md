@@ -20,14 +20,14 @@ If you find this code useful, please reference in your paper:
 Here we provide links to implementations with different model-based agents. 
 
 ## DreamerV3
-[github.com/AutonomousAgentsLab/curiousreplay-dv3][dv3]
+[github.com/AutonomousAgentsLab/cr-dv3][dv3]
 
 ## DreamerV2
-[github.com/AutonomousAgentsLab/curiousreplay-dv2][dv2]
+[github.com/AutonomousAgentsLab/cr-dv2][dv2]
 
 
-[dv3]: https://github.com/AutonomousAgentsLab/curiousreplay-dv3
-[dv2]: https://github.com/AutonomousAgentsLab/curiousreplay-dv2
+[dv3]: https://github.com/AutonomousAgentsLab/cr-dv3
+[dv2]: https://github.com/AutonomousAgentsLab/cr-dv2
 
 [paper]: 
 [website]: 
