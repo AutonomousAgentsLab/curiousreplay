@@ -1,5 +1,5 @@
 # Curious Replay for Model-based Adaptation
-Implementations of Curious Replay, a method for prioritizing experience replay that is tailored to model-based reinforcement learning agents.
+Implementations of [https://arxiv.org/abs/2306.15934][Curious Replay], a method for prioritizing experience replay that is tailored to model-based reinforcement learning agents.
 
 Experiences are prioritized based on how interesting they are, as measured by a curiosity signal. 
 In combination with DreamerV3, this method achieves a new state-of-the-art on the [Crafter](https://github.com/danijar/crafter) benchmark.
